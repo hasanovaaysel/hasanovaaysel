@@ -1,26 +1,40 @@
-# Hi there! 👋 I'm Aysel Həsənova
-About Me
+# Hi 👋, I'm Aysel Həsənova
 
-I'm passionate about technology and problem-solving. I enjoy building web applications and analyzing data to discover meaningful insights.
+### Aspiring Data Analyst | Frontend Developer
 
-💻 Tech Stack
+## 👋 About Me
 
+I'm passionate about technology, data, and problem-solving. I enjoy building web applications and transforming data into meaningful insights.
+
+## 💻 Tech Stack
+
+### Frontend
 - HTML
 - CSS
 - JavaScript
 
-📊 Interests
+### Data Analytics
+- Excel
+- SQL
+- Power BI
+- Python
+
+## 📊 Interests
 
 - Data Analytics
 - Business Intelligence
 - Data Visualization
 - Frontend Development
 
-🎯 Goals
+## 🎯 Goals
 
-- Build impactful projects
-- Continuously improve my technical skills
-- Contribute to open-source projects
+- Build impactful and data-driven projects
+- Improve my analytical and technical skills
+- Create professional portfolio projects
 - Grow as a Data Analyst
+
+## 📫 Contact
+
+- GitHub: https://github.com/hasanovaaysel
 
 Thanks for visiting my profile! ⭐
