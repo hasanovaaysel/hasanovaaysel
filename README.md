@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aysel Həsənova
 
-### Aspiring Data Analyst | Frontend Developer
+###  Data Analyst | Frontend Developer
 
 ## 👋 About Me
 
