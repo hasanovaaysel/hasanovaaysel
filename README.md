@@ -18,6 +18,9 @@ I'm passionate about technology, data, and problem-solving. I enjoy building web
 - SQL
 - Power BI
 - Python
+- Pandas
+- Numpy
+- Matplotib
 
 ## 📊 Interests
 
